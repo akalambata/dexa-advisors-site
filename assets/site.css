@@ -178,3 +178,8 @@ button.btn{border:0;cursor:pointer;line-height:1.5}
 .brief-download .btn{text-align:center}
 .brief-download .text-link{font-size:16px}
 @media(max-width:700px){.brief-download{padding:24px 20px}}
+
+/* Alex direct contact */
+.direct-contact{margin-top:18px;font:16px/1.5 'Space Grotesk',sans-serif}
+.cta-panel .direct-contact{margin:18px auto 0;font-size:17px}
+.direct-contact a{display:inline-block;padding:8px 0}
